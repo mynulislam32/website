@@ -17,7 +17,7 @@ export default function HomePage() {
         <div className="relative z-20 h-full flex flex-col justify-center px-6 max-w-7xl mx-auto">
           <div className="mb-8">
             <h1 className="text-5xl md:text-7xl font-bold mb-4 tracking-tight text-white">
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-yellow-600">DRIVING</span> WEST
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-yellow-600">MYNUL</span> ISLAM
             </h1>
             <div className="h-1 w-24 bg-gradient-to-r from-yellow-400 to-yellow-600"></div>
           </div>
